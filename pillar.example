@@ -1,0 +1,8 @@
+users:
+  root:
+    home: /root
+    shell: /usr/bin/zsh
+  jchen:
+    home: /home/jchen
+    sudouser: True
+    shell: /usr/bin/zsh
