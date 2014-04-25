@@ -11,3 +11,11 @@ configuration:
 gitfs_remotes:
   - https://github.com/saltstack-formulas/users-formula.git
 ```
+
+#### Installs the following packages:
+
+* git
+* python2
+* screen
+* vim
+* zsh
