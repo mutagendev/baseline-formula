@@ -19,3 +19,7 @@ gitfs_remotes:
 * screen
 * vim
 * zsh
+
+#### If `dotfile_gitrepo` is not defined, will grab and drop:
+
+[fly/dotfiles](https://github.com/fly/dotfiles)
