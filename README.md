@@ -23,3 +23,7 @@ gitfs_remotes:
 #### If `dotfile_gitrepo` is not defined, will grab and drop:
 
 [fly/dotfiles](https://github.com/fly/dotfiles)
+
+### Cloud:
+
+If a target isn't defined, then a Linode instance will be spun up. (WIP)
