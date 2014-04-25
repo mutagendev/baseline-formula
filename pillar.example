@@ -2,7 +2,9 @@ users:
   root:
     home: /root
     shell: /usr/bin/zsh
+    github_username: fly
   jchen:
     home: /home/jchen
     sudouser: True
     shell: /usr/bin/zsh
+    github_username: fly
