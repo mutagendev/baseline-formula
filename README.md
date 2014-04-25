@@ -1,6 +1,6 @@
 # baseline-formula
 
-Salt formula to get a VM to baseline install with dotfiles and base packages.
+Salt formula to get a VM to baseline install with dotfiles and packages.
 
 See `pillar.example` for an example of what you want your pillar to look like.
 
